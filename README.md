@@ -46,7 +46,9 @@ The dataset is collected from the Udemy course "Data Analysis Projects in Python
 
 Course Acknowledgment
 
-This analysis project is part of the "Data Analysis Projects in Python" course on Udemy, contributing to practical learning and skill development in data analytics. Access the course here.
+This analysis project is part of the "Data Analysis Projects in Python" course on Udemy, contributing to practical learning and skill development in data analytics. Access the course here: https://www.udemy.com/course/data-analysis-real-world-use-cases-hands-on-python/
+
+Data is originally collected from Kaggle: https://www.kaggle.com/code/hiteshsom/uber-pickups-analysis
 
 Note: The 'pics' folder contains visualizations for further exploration of the findings.
 
